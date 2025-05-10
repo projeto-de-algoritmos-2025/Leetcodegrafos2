@@ -15,8 +15,8 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 # Respostas Pedro
 |Questão | Resolução |
 | -- | -- |
-| [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |  [Resolução]() |
-|  [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)|  [Resolução]()|
+| [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/787.py) |
+|  [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)|  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/1368.py)|
 
 # Respostas Mateus
 
