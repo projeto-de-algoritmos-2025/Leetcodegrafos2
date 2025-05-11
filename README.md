@@ -18,12 +18,13 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 | [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/787.py) |
 |  [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)|  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/1368.py)|
 
+
 # Respostas Mateus
 
 |Questão | Resolução |
 | -- | -- |
-|  |  [Resolução]()|
-|  |  [Resolução]()|
+|  [743](https://leetcode.com/problems/network-delay-time/description/)|  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/743.py)|
+|  [1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|  [Resolução](https://github.com/projeto-de-algoritmos-2025/Leetcodegrafos2/blob/master/Respostas/1489.py)|
 
 ## Instalação 
 **Linguagem**: Python<br>
